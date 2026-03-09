@@ -5,9 +5,9 @@ import random
 import datetime
 
 # --- CONFIGURATION ---
-TOKEN = 'YOUR_BOT_TOKEN_HERE'
+TOKEN = 'MTQ4MDUzNjMzODQ4MTU0OTMyMg.GXtwP1.yJXDoAMG5H8z5hINaCi5ZLbqjvBO8iHRSjNZYA'
 GEN_CHANNEL_ID = 1480531258516963519  # Where users type commands
-LOG_CHANNEL_ID = 123456789012345678   # CHANGE THIS: ID of your private staff log channel
+LOG_CHANNEL_ID = 1478094558666555432 # CHANGE THIS: ID of your private staff log channel
 PREFIX = '?'
 COOLDOWN_TIME = 60 # Seconds between uses
 
